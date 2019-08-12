@@ -1,1 +1,3 @@
-
+Files to be ignored are mentioned below
+.*c class files
+select * from # files
